@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "每天就是扫扫地啊，念念经啊 "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "翟高远
   (Gaoyuan Zhai)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tianjin University"
+  bio              : Tianjin University
   location         : "中国天津"
   employer         :
   pubmed           : 
