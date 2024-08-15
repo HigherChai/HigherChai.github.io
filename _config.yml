@@ -25,11 +25,10 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : Peiyang University
   location         : "中国天津"
-  Email            :  "319096638@qq.com"
-  email            :  # e.g.,  "319096638@qq.com" 
+  email            :  "319096638@qq.com" 
   employer         :
   pubmed           : 
-  googlescholar    :  # e.g., "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -39,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -47,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            :  "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
