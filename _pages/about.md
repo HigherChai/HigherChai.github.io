@@ -20,8 +20,7 @@ redirect_from:
 
 # 📝 研究方向
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+民法、卫生健康法
 
 
 # 🎖 学术成果
@@ -30,8 +29,8 @@ redirect_from:
 
 
 # 💬 科研项目
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 【主持】2020.06-2023.12 四川省哲学社会科学重点研究基地四川医事卫生法治研究中心2020年度青年项目
+- 【主持】2024.06-2026.06 四川省哲学社会科学重点研究基地四川医事卫生法治研究中心-中国卫生法学会2024年度青年项目
 
 # 💻 荣誉奖励
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 中国卫生法学会2021年年会征文三等奖
