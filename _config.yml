@@ -25,10 +25,12 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : Peiyang University
   location         : "中国天津"
+  
+  email            :  "319096638@qq.com" 
   employer         :
   pubmed           : 
   googlescholar    :  # e.g., "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            :  "319096638@qq.com"
+  
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
