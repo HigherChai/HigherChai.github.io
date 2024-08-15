@@ -27,8 +27,8 @@ redirect_from:
 
 # 💻 学术成果
 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 《论我国末期患者放弃治疗之法律规制》，载《上海政法学院学报（法治论丛）》2022年第2期。
+- 《从“梅根法案”到信息公开：性侵未成年人犯罪的联动治理》，载《公安研究》2018年第2期。
 
 
 # 💬 科研项目
