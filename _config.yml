@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Higher Chai"
-description              : "每天就是扫扫地啊，念念经啊 "
+description              : "每天扫扫地啊，念念经啊 "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,8 +27,8 @@ author:
   location         : "中国天津"
   employer         :
   pubmed           : 
-  googlescholar    : # e.g., "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            :  319096638@qq.com
+  googlescholar    :  # e.g., "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            :  "319096638@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
