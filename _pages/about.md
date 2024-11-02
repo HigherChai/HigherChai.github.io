@@ -28,6 +28,7 @@ redirect_from:
 
 # 💻 学术成果
 
+-  Impact of the COVID-19 pandemic on the codification of China’s civil code. Frontiers in Public Health. 12 (2024).
 - 《不完全医疗决定能力的规范构造——以未成年人、成年心智障碍者的医疗决策为中心》，载《社会科学研究》2024年第5期。
 - 《医疗主义变迁下的患者自治》，载《天中学刊》2023年第6期。
 - 《论我国末期患者放弃治疗之法律规制》，载《上海政法学院学报（法治论丛）》2022年第2期。
