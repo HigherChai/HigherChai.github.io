@@ -13,7 +13,6 @@ redirect_from:
 # 🧑‍🎨 个人简介
 
 - 翟高远，男，河南上蔡人，现为天津大学法学院2022级博士研究生
-- 通讯地址：天津市南开区卫津路92号天津大学
 
 
 # 📝 研究方向
@@ -23,13 +22,12 @@ redirect_from:
 
 # 📖 教育工作经历
 
-- 内蒙古科技大学 法学学士（2019）
 - 华东师范大学 民商法硕士（2022）
 - 天津大学 民法博士研究生（2022-至今）
 
 # 💻 学术成果
 
--  “Impact of the COVID-19 pandemic on the codification of China’s civil code.” Frontiers in Public Health. 2024, 12.
+-  Impact of the COVID-19 pandemic on the codification of China’s civil code. Frontiers in Public Health. 2024, 12.
 - 《不完全医疗决定能力的规范构造——以未成年人、成年心智障碍者的医疗决策为中心》，载《社会科学研究》2024年第5期。
 - 《医疗主义变迁下的患者自治》，载《天中学刊》2023年第6期。
 - 《论我国末期患者放弃治疗之法律规制》，载《上海政法学院学报（法治论丛）》2022年第2期。
