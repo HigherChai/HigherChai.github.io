@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "翟高远"
-  avatar           : "profile.png"
+  avatar           : 
   bio              : Peiyang University
   location         : "中国天津"
-  email            :  "319096638@qq.com" 
+  email            : 
   employer         :
   pubmed           : 
   googlescholar    :  "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -46,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            :  "https://orcid.org/xxxx"
+  orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
