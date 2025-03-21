@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Higher Chai"
+  name             : 
   avatar           : 
-  bio              :  "每天就是扫扫地啊，念念经啊"
-  location         :  "Tianjin"
+  bio              :  
+  location         :  
   email            :  
   pubmed           : 
   googlescholar    :  
