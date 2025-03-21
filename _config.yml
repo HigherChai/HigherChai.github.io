@@ -5,11 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Site Settings
-title                    :  "Higher Chai的个人主页"
-description              :  
+# Basic Site Settings
+locale                   : #"天津大学"
+title                    : "Higher Chai的个人主页"
+title_separator          : "-"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://HigherChai.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HigherChai.github.io"
-google_scholar_stats_use_cdn : true
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -17,7 +21,8 @@ google_scholar_stats_use_cdn : true
 # Site Author
 
 author:
-  name             : 
+ # Biographic information
+  name             : "Higher Chai"
   avatar           : "android-chrome-512x512.png"
   bio              :  "每天就是扫扫地啊，念念经啊！"
   location         :  "Nankai District, Tianjin"
