@@ -6,57 +6,50 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    :  "Higher Chai"
+title                    :  "Higher Chai的个人主页"
 description              :  
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "HigherChai.github.io"
 google_scholar_stats_use_cdn : true
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name             : 
-  avatar           : 
+  avatar           : "android-chrome-512x512.png"
   bio              :  "每天就是扫扫地啊，念念经啊！"
-  location         :  "Tianjin"
+  location         :  "No. 92, Weijin Road, Nankai District, Tianjin, China"
   email            :  "3109096638@qq.com"
-  pubmed           : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  
-  
+  employer         : "Peiyang university"
   researchgate     :  
   uri              : 
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : 
-  lastfm           :
-  linkedin         : 
-  dblp             : 
+  bitbucket        : # Username
+  codepen          : # Username
+  dribbble         : # Username
+  flickr           : # Username
+  facebook         : # Username
+  foursquare       : # Username
+  github           : #"academicpages"
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  impactstory      : # Username
+  lastfm           : # Username
+  linkedin         : # Username
+  dblp             : # Username
   orcid            : "https://orcid.org/0009-0006-3481-8048"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  pinterest        : # Username
+  soundcloud       : # Username
+  stackoverflow    : # Username
+  steam            : # Username
+  tumblr           : # Username
+  twitter          : # Username
+  vine             : # Username
+  weibo            : # Username
+  xing             : # Username
+  youtube          : # Username
+  wikipedia        : # Username
 
 
 # Reading Files
