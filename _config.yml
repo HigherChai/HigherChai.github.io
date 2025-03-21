@@ -10,7 +10,7 @@ locale                   : #"天津大学"
 title                    : "Higher Chai的个人主页"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : 
 url                      : https://HigherChai.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HigherChai.github.io"
