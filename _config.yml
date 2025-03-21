@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Higher Chai"
-description              : "每天扫扫地啊，念念经啊 "
+title                    :  # e.g., "Higher Chai"
+description              :  # e.g., "每天扫扫地啊，念念经啊 "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : 
   avatar           : 
-  bio              : Peiyang University
-  location         : "中国天津"
-  email            : "319096638@qq.com"
+  bio              :  # e.g., Peiyang University
+  location         :  # e.g., "中国天津"
+  email            :  # e.g., "319096638@qq.com"
   employer         :
   pubmed           : 
   googlescholar    :  # e.g., "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
