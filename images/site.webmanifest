@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
        {
-          "src": "C:\Users\31909\Desktop\Higher Chai.png"
+          "src": 
           "sizes": "192x192",
           "type": "image/png"
        },
        {
-        "src": "C:\Users\31909\Desktop\Higher Chai.png"
+        "src": 
         "sizes": "512x512",
         "type": "image/png"
         }
