@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Higher Chai"
-  avatar           : "profile.png"
+  avatar           : 
   bio              :  "每天就是扫扫地啊，念念经啊"
   location         :  "Tianjin"
   email            :  
@@ -30,7 +30,7 @@ author:
   googlescholar    :  
   
   researchgate     :  
-  uri              : "C:\Users\31909\Desktop\Higher Chai.png"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
