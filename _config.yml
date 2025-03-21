@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : 
   avatar           : 
-  bio              :  
-  location         :  
-  email            :  
+  bio              :  "每天就是扫扫地啊，念念经啊！"
+  location         :  "Tianjin"
+  email            :  "3109096638@qq.com"
   pubmed           : 
   googlescholar    :  
   
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : 
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0006-3481-8048"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
