@@ -22,7 +22,7 @@ repository               : "HigherChai.github.io"
 
 author:
  # Biographic information
-  name             : "Higher Chai"
+  name             : #"Higher Chai"
   avatar           : "android-chrome-512x512.png"
   bio              :  "每天就是扫扫地啊，念念经啊！"
   location         :  "Nankai District, Tianjin"
